@@ -9,4 +9,10 @@ export default createGlobalStyle`
         font-family: 'Roboto', sans-serif;
     }
 
+    body{
+        overflow: hidden;
+    }
+
+    
+
 `;
